@@ -7,8 +7,8 @@
 TODO    If Not Show Error Message
 */
 
-import { elmentInput,submitBtn,selectedElmentInput } from "./scripts/Elements"
-import { preformSearch } from "./scripts/preformSearch"
+import { elmentInput,submitBtn,selectedElmentInput } from "././scripts/Elements"
+import { preformSearch } from "././scripts/preformSearch"
 
 submitBtn.addEventListener("click", (e)=>{
     e.preventDefault()
