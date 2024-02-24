@@ -1,7 +1,8 @@
 
 console.log("sss")
-import { elmentInput,submitBtn,selectedElmentInput } from "././scripts/Elements"
-import { preformSearch } from "././scripts/preformSearch"
+import { elmentInput,submitBtn,selectedElmentInput } from"./scripts/Elements"
+  
+import { preformSearch } from "./scripts/preformSearch"
 
 
 
